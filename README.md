@@ -1,5 +1,5 @@
 # Hi I'm Randolph 👋
-
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark"
@@ -14,4 +14,4 @@
 
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact"/>
 
-
+-->
