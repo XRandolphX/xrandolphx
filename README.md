@@ -65,7 +65,7 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark&hide_border=true&bg_color=1C2128"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -77,7 +77,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact&theme=dark&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact&theme=dark&hide_border=true&bg_color=1C2128"
     media="(prefers-color-scheme: dark)"
   />
   <source
