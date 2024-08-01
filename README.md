@@ -65,7 +65,7 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark&hide_border=true&bg_color=1C2128"
+    srcset="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark&hide_border=true&bg_color=1C2128&icon_color=FFFFFF"
     media="(prefers-color-scheme: dark)"
   />
   <source
