@@ -61,6 +61,8 @@
   </tr>
 </table>
 
+<!-- stats and languages card-->
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark"
@@ -73,3 +75,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true" />
 </picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact" />
+</picture>
+</div>
