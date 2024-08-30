@@ -30,7 +30,7 @@
   <tr>
     <td>
       <img
-        src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&perline=14"
+        src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind&perline=14"
         alt="Frontend"
       />
     </td>
