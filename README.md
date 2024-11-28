@@ -36,13 +36,13 @@
     </td>
     <td>
       <img
-        src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py&perline=14"
+        src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&perline=14"
         alt="Backend"
       />
     </td>
     <td>
       <img
-        src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio&perline=14"
+        src="https://skillicons.dev/icons?i=kotlin,androidstudio&perline=14"
         alt="Mobile"
       />
     </td>
