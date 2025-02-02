@@ -54,7 +54,7 @@
     </td>
     <td>
       <img
-        src="https://skillicons.dev/icons?i=git,figma,wordpress&perline=14"
+        src="https://skillicons.dev/icons?i=git,figma&perline=14"
         alt="Tools"
       />
     </td>
