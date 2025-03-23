@@ -72,7 +72,7 @@
 
 <!-- stats and languages card-->
 <div align="center">
-  <picture>
+<!--   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark&hide_border=true&icon_color=C5D1DE&bg_color=1C2128&title_color=C5D1DE&text_color=C5D1DE"
       media="(prefers-color-scheme: dark)"
@@ -82,7 +82,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img width="395px" height="" src="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark&hide_border=true&icon_color=C5D1DE&bg_color=1C2128&title_color=C5D1DE&text_color=C5D1DE" />
-  </picture>
+  </picture> -->
   
   <picture>
     <source
