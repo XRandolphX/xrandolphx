@@ -1,25 +1,17 @@
 <!--My Presentation-->
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Hi, I'm Randolph 🧑🏻‍💻</h1>
-    </summary>
-  </ul>
+<div align="center">
+  <h1>Hi, I'm Randolph 🧑🏻‍💻</h1>
 </div>
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Technologies That I Know 💻</h2>
-    </summary>
-  </ul>
+<div align="center">
+  <h2>Technologies That I Know 💻</h2>
 </div>
 
 <!--tech stack icons-->
-<table>
+<table align="center">
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
@@ -36,19 +28,19 @@
     </td>
     <td>
       <img
-        src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&perline=14"
+        src="https://skillicons.dev/icons?i=nodejs,express,python&perline=14"
         alt="Backend"
       />
     </td>
     <td>
       <img
-        src="https://skillicons.dev/icons?i=kotlin,androidstudio&perline=14"
+        src="https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter&perline=14"
         alt="Mobile"
       />
     </td>
     <td>
       <img
-        src="https://skillicons.dev/icons?i=mysql,firebase&perline=14"
+        src="https://skillicons.dev/icons?i=postgresql,mysql,firebase&perline=14"
         alt="Databases"
       />
     </td>
@@ -62,17 +54,13 @@
 </table>
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">My Stats 🤖</h2>
-    </summary>
-  </ul>
+<div align="center">
+  <h2>My Stats 🤖</h2>
 </div>
 
 <!-- stats and languages card-->
 <div align="center">
-<!--   <picture>
+  <!--   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark&hide_border=true&icon_color=C5D1DE&bg_color=1C2128&title_color=C5D1DE&text_color=C5D1DE"
       media="(prefers-color-scheme: dark)"
@@ -83,16 +71,24 @@
     />
     <img width="395px" height="" src="https://github-readme-stats.vercel.app/api?username=xrandolphx&show_icons=true&theme=dark&hide_border=true&icon_color=C5D1DE&bg_color=1C2128&title_color=C5D1DE&text_color=C5D1DE" />
   </picture> -->
-  
+
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact&theme=dark&hide_border=true&bg_color=1C2128&title_color=C5D1DE&text_color=FFFFFF"
+      srcset="
+        https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact&theme=dark&hide_border=true&bg_color=1C2128&title_color=C5D1DE&text_color=FFFFFF
+      "
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact&theme=dark&hide_border=true&bg_color=FFFFFF&title_color=1F2328&text_color=1F2328"
+      srcset="
+        https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact&theme=dark&hide_border=true&bg_color=FFFFFF&title_color=1F2328&text_color=1F2328
+      "
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="300px" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact&theme=dark&hide_border=true&bg_color=1C2128&title_color=C5D1DE&text_color=FFFFFF" />
+    <img
+      width="300px"
+      height=""
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrandolphx&layout=compact&theme=dark&hide_border=true&bg_color=1C2128&title_color=C5D1DE&text_color=FFFFFF"
+    />
   </picture>
 </div>
